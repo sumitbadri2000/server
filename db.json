@@ -1,3 +1,136 @@
 {
-    "sofa":[]
+  "sofa": [
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-grey__0868926_pe781434_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-grey__0868927_pe781435_s5.jpg?f=xxs",
+      "title": "GAMMALBYN",
+      "short description": "3-seat sofa",
+      "price": "20,990",
+      "reviews": "(38)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-grey__0868926_pe781434_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-beige__0868906_pe781416_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-blue__0868912_pe781422_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/ormaryd-3-seat-sofa-dark-blue__0919663_pe786703_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/ormaryd-3-seat-sofa-dark-blue__0919664_pe786704_s5.jpg?f=xxs",
+      "title": "ORMARYD",
+      "short description": "3-seat sofa",
+      "price": "19,990",
+      "reviews": "(14)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/ormaryd-3-seat-sofa-dark-blue__0919663_pe786703_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/ormaryd-3-seat-sofa-beige__0919651_pe786695_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/ormaryd-3-seat-sofa-grey__0919853_pe786760_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-knisa-dark-grey__0950864_pe800736_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-knisa-dark-grey__0950897_pe800737_s5.jpg?f=xxs",
+      "title": "GLOSTAD",
+      "short description": "2-seat sofa",
+      "price": "9,990",
+      "reviews": "(8)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-knisa-dark-grey__0950864_pe800736_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-knisa-medium-blue__0950900_pe800740_s5.jpg?f=xu",
+      "thumbnail3": ""
+    },
+    {
+      "deal": "Few seller",
+      "image1": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-vissle-grey__0239990_pe379591_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-vissle-grey__0820948_pe709146_s5.jpg?f=xxs",
+      "title": "KLIPPAN",
+      "short description": "2-seat sofa",
+      "price": "21,990",
+      "reviews": "(5)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-vissle-grey__0239990_pe379591_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-grossbol-black-beige__1085805_pe860259_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-vissle-blue__0748016_pe744801_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-light-red__0852576_pe780181_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-light-red__0852577_pe780184_s5.jpg?f=xxs",
+      "title": "GR�NLID",
+      "short description": "4-seat sofa with chaise longues",
+      "price": "1,08,990",
+      "reviews": "(23)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-light-red__0852576_pe780181_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-sporda-natural__0577302_pe668762_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-medium-grey__0577280_pe668736_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-grey__0865039_pe781338_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-grey__0865040_pe781339_s5.jpg?f=xxs",
+      "title": "GAMMALBYN",
+      "short description": "2-seat sofa",
+      "price": "17,990",
+      "reviews": "(15)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-grey__0865039_pe781338_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-beige__0865028_pe781328_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-blue__0865034_pe781333_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Few seller",
+      "image1": "https://www.ikea.com/in/en/images/products/hammarn-sofa-bed-knisa-dark-grey-black__0519027_pe641353_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/hammarn-sofa-bed-knisa-dark-grey-black__0833786_pe641354_s5.jpg?f=xxs",
+      "title": "HAMMARN",
+      "short description": "Sofa-bed,",
+      "price": "9,990",
+      "reviews": "(12)",
+      "thumbnail1": "",
+      "thumbnail2": "",
+      "thumbnail3": ""
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/lycksele-loevas-2-seat-sofa-bed-knisa-light-grey__0949707_pe799982_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/lycksele-loevas-2-seat-sofa-bed-knisa-light-grey__0949708_pe799965_s5.jpg?f=xxs",
+      "title": "LYCKSELE L�V�S",
+      "short description": "2-seat sofa-bed",
+      "price": "24,990",
+      "reviews": "(2)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/lycksele-loevas-2-seat-sofa-bed-knisa-light-grey__0949707_pe799982_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/lycksele-loevas-2-seat-sofa-bed-vansbro-dark-grey__0949727_pe799964_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/lycksele-loevas-2-seat-sofa-bed-vansbro-bright-green__0949722_pe799973_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-asvang-firm__1180460_pe896336_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-asvang-firm__1078996_pe857423_s5.jpg?f=xxs",
+      "title": "HEMNES",
+      "short description": "Day-bed w 3 drawers/2 mattresses,",
+      "price": "44,970",
+      "reviews": "(5)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-asvang-firm__1180460_pe896336_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-agotnes-firm__1180458_pe896335_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-vannareid-extra-firm__1180456_pe896329_s5.jpg?f=xu"
+    },
+    {
+      "deal": "Few seller",
+      "image1": "https://www.ikea.com/in/en/images/products/ekolsund-recliner-gunnared-light-brown-pink__0709905_pe727164_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/ekolsund-recliner-gunnared-light-brown-pink__0709911_pe727169_s5.jpg?f=xxs",
+      "title": "EKOLSUND",
+      "short description": "Recliner",
+      "price": "30,990",
+      "reviews": "(20)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/ekolsund-recliner-gunnared-light-brown-pink__0709905_pe727164_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/ekolsund-recliner-gunnared-dark-grey__0709891_pe727153_s5.jpg?f=xu",
+      "thumbnail3": ""
+    },
+    {
+      "deal": "Top seller",
+      "image1": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-gransel-natural-colour__1057631_pe848862_s5.jpg?f=xxs",
+      "image2": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-gransel-natural-colour__1057628_pe848863_s5.jpg?f=xxs",
+      "title": "S�DERHAMN",
+      "short description": "Chaise longue",
+      "price": "32,000",
+      "reviews": "(50)",
+      "thumbnail1": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-gransel-natural-colour__1057631_pe848862_s5.jpg?f=xu",
+      "thumbnail2": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-viarp-beige-brown__0802369_pe768433_s5.jpg?f=xu",
+      "thumbnail3": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-fridtuna-light-beige__1057748_pe848952_s5.jpg?f=xu"
+    }
+  ]
 }
